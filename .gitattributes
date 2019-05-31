@@ -1,3 +1,2 @@
-*.py linguist-language=php
-*.css linguist-language=php
-*.html linguist-language=php
+*.md linguist-language=Java
+*.py linguist-language=Java
